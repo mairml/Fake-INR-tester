@@ -1,7 +1,10 @@
 This is a simple proof-of-concept project -- not a diagnostic tool, and not for medical use!
 
-Prothrombin time, the time it takes for blood to clot, along with its derived international normalized ratio (INR) formula, is an important measure of blood coagulation in patients on warfarin therapies. The development of at-home and point-of-care devices is important for rapid diagnoses, and, importantly, encourages patient compliance to clinical treatments. 
-Few at home/point-of-care INR testers exist, and those that do are often cost prohibitive for at-home use by patients. The following project acts as a basic proof-of-concept for a Python and Raspberry Pi-based INR tester. 
+Prothrombin time, the time it takes for blood to clot, along with its derived international normalized ratio (INR) formula, 
+is an important measure of blood coagulation in patients on warfarin therapies. 
+The development of at-home and point-of-care devices is important for rapid diagnoses, and, importantly, encourages patient compliance to clinical treatments. 
+Few at home/point-of-care INR testers exist, and those that do are often cost prohibitive for at-home use by patients. 
+The following project acts as a basic proof-of-concept for a Python and Raspberry Pi-based INR tester. 
 
 Again, this is a proof-of-concept, not a medical device. 
 
